@@ -1,2 +1,2 @@
-This repository is an archive of all the Duke CS201 Projects of Spring 2024. 
+This repository is an archive of all the Duke CS201 Projects I completed in Spring 2024
 
